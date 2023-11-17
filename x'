@@ -1,0 +1,50 @@
+[33mcommit 4e284a92540a6560b64034675510b35d7559ee95[m[33m ([m[1;36mHEAD -> [m[1;32mdemo[m[33m)[m
+Author: Aniket Mahadik <aniketmahadik212@gmail.com>
+Date:   Sat Nov 18 01:12:08 2023 +0530
+
+    3
+
+[33mcommit f1488929e6513eb9c8538f67330ed559cd618016[m
+Author: Aniket Mahadik <aniketmahadik212@gmail.com>
+Date:   Sat Nov 18 01:11:56 2023 +0530
+
+    2
+
+[33mcommit 24dc2dbb5b8688c75ea5f8c137cdf92394b62e3f[m
+Author: Aniket Mahadik <aniketmahadik212@gmail.com>
+Date:   Sat Nov 18 01:11:08 2023 +0530
+
+    1
+
+[33mcommit 7afc3116c4a2bc4027f1b2d79bbe87198996a3ce[m[33m ([m[1;31mupstream/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: CommPractice786 <151197167+CommPractice786@users.noreply.github.com>
+Date:   Sat Nov 18 00:49:16 2023 +0530
+
+    Update README.md
+
+[33mcommit 32a0db3aa77bbf79d82785f22d4f7317909d4bcc[m
+Author: CommPractice786 <151197167+CommPractice786@users.noreply.github.com>
+Date:   Sat Nov 18 00:36:47 2023 +0530
+
+    Update README.md
+
+[33mcommit 895fd4f83610458960aa073e50429c3a59936ffe[m
+Merge: 174df30 c8f0203
+Author: CommPractice786 <151197167+CommPractice786@users.noreply.github.com>
+Date:   Sat Nov 18 00:11:51 2023 +0530
+
+    Merge pull request #1 from ANIKET743/Aniket
+    
+    Aniket Added a Message
+
+[33mcommit c8f0203677f88e5bf6a0c40901c21bf77584bf3b[m[33m ([m[1;31morigin/Aniket[m[33m, [m[1;32mAniket[m[33m)[m
+Author: Aniket Mahadik <aniketmahadik212@gmail.com>
+Date:   Fri Nov 17 21:47:56 2023 +0530
+
+    Aniket Added a Message
+
+[33mcommit 174df305bd5d97dff1e8a2b5889826ea9f723320[m
+Author: CommPractice786 <151197167+CommPractice786@users.noreply.github.com>
+Date:   Fri Nov 17 21:32:38 2023 +0530
+
+    Initial commit
